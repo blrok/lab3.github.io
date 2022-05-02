@@ -1,0 +1,230 @@
+.cv {
+  background-color: black;
+  padding: 0;
+  margin: 0;
+  display:flex;
+  justify-content: center;
+  
+}
+.main{
+  min-width:480px;
+  display: flex;
+  justify-content: center;
+}
+.zeroPart{
+  width:50px;
+  background-color: #7d8597;
+}
+.firstPart{
+  width:300px;
+  display: flex;
+  flex-direction: column; 
+  background-color: white;
+  width:500px;
+  
+}
+.secondPart{
+  width:350px;
+  display: flex;
+  flex-direction: column; 
+  justify-content: space-between;
+  background-color: white;
+  width:300px;
+}
+.name{
+  font-family: Relaway;
+  font-size:xxx-large;
+  padding: 35px;
+}
+.about{
+  margin-top: 10px;
+  padding-left: 30px;
+  width:450px;
+}
+.title{
+  font-family: Relaway;
+  font-size: xx-large;
+  color: orange;
+  
+}
+.subtitle{
+  font-family: Relaway;
+  font-size: x-large;
+  display: flex;
+}
+.description{
+  font-family: Relaway;
+  padding-top: 10px;
+  font-size: large;
+  max-width: 450px;
+}
+.descriptionInt{
+  font-family: Relaway;
+  padding-top: 10px;
+  font-size: large;
+  max-width: 150px;
+}
+.experience{
+  display: flex;
+  flex-direction: column;  
+  padding-left: 30px;
+  padding-top: 30px;
+  max-width: 400px;
+}
+.expData{
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+}
+.information{
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+  min-width: 350px;
+}
+.year{
+  font-family: Relaway;
+  font-size: x-large;
+  min-width: 120px;
+}
+.gallerey{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  
+
+}
+.gallerey img{
+  border-radius: 50%;
+}
+.interest{
+  background-color: #b3b8c3;
+  height: 150px;
+  max-width: 280px;
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-top:10px;
+}
+.intData{
+  display: flex;
+  justify-content: row;
+  padding-left: 10px;
+  padding-top:10px;
+}
+.icon{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: x-large;
+}
+.skills{
+  margin-top: 20px;
+  background-color: #b3b8c3;
+  min-height: 150px;
+  max-width: 280px;
+  padding-left: 20px;
+  padding-top:10px;
+
+}
+.firstSkill{
+  padding-top:10px;
+}
+.contacts{
+  margin-top: 20px;
+  background-color: #b3b8c3;
+  min-height: 100px;
+  max-width: 280px;
+  margin-bottom: 50px;
+  padding-left: 20px;
+  padding-top:10px;
+  display: flex;
+  flex-direction: column;
+}
+.conData{
+  display: flex;
+  flex-direction: row;
+  padding-left: 10px;
+}
+.desc{
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  font-size: large;
+}
+.skillData{
+  display: flex;
+  flex-direction: row;
+}
+.skillData1{
+  display: flex;
+  flex-direction: row;
+}
+.skillAbility{
+  margin-top: 15px;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.skillAbility1{
+  margin-top: 15px;
+  margin-left: 25px;
+  display: flex;
+  flex-direction: row;
+}
+.Good{
+  margin-left: 38px;
+  width:90px;
+  height: 10px;
+  background-color: orange;
+}
+.Bad{
+  width:10px;
+  height: 10px;
+  background-color: black;
+}
+.Good1{
+  margin-left: 38px;
+  width:70px;
+  height: 10px;
+  background-color: orange;
+}
+.Bad1{
+  width:30px;
+  height: 10px;
+  background-color: black;
+}
+.Good2{
+  margin-left: 18px;
+  width:80px;
+  height: 10px;
+  background-color: orange;
+}
+.Bad2{
+  width:20px;
+  height: 10px;
+  background-color: black;
+}
+.Good3{
+  margin-left: 0;
+  width:60px;
+  height: 10px;
+  background-color: orange;
+}
+.Bad3{
+  width:40px;
+  height: 10px;
+  background-color: black;
+}
+.Good4{
+  margin-left: 40px;
+  width:60px;
+  height: 10px;
+  background-color: orange;
+}
+.Bad4{
+  width:40px;
+  height: 10px;
+  background-color: black;
+}
+
+
