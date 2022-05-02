@@ -119,9 +119,8 @@
 }
 .skills{
   margin-top: 20px;
-  margin-bottom: 20px;
   background-color: #b3b8c3;
-  min-height: 150px;
+  height: 250px;
   max-width: 280px;
   padding-left: 20px;
   padding-top:10px;
